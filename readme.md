@@ -14,5 +14,5 @@ Este projeto foi desenvolvido como parte do processo seletivo para a vaga de Est
 
 1. **Clonar o repositório:**
    ```bash
-   git clone <https://github.com/Guren156/processo_seletivo.git>
+   git clone https://github.com/Guren156/processo_seletivo.git
    cd processo_seletivo
